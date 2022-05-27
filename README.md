@@ -6,4 +6,4 @@ A year 3 CS student urging for more knowledge.
 - 📫 Reach me at **hokwanhung.2019@gmail.com**
 - 📄 Know about my experiences [To be added]
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=travrs629&show_icons=true&locale=en" alt="travrs629" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=travrs629&show_icons=true&cache_seconds=900&locale=en" alt="travrs629" /></p>

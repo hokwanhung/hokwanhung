@@ -6,4 +6,4 @@ A year 3 CS student targeting at making great products.
 - 📫 Reach me at **hokwanhung.2019@gmail.com**
 - 📄 Know about my experiences [To be added]
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=travrs629&show_icons=true&cache_seconds=900&locale=en" alt="travrs629" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=travrs629&show_icons=true&cache_seconds=500&locale=en" alt="travrs629" /></p>

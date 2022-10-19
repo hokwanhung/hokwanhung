@@ -9,3 +9,6 @@ A year 4 CS student aiming at making products with significant impacts.
 <br>
 
 ![hokwanhung's GitHub stats](https://github-readme-stats.vercel.app/api?username=travrs629&show_icons=true&count_private=true&line_height=25&include_all_commits=true&hide=contribs&cache_seconds=7200)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travrs629&layout=compact&card_width=445px)
+

@@ -6,7 +6,7 @@ A year 4 CS student aiming at making products with significant impacts.
 - 📫 Reach me at hokwanhung.2019@gmail.com
 - 📄 Know about my experiences [Kwan_Hung_HO_CV.pdf](https://github.com/travrs629/travrs629/raw/main/Kwan_Hung_HO_CV.pdf)
 
-![hokwanhung's GitHub stats](https://github-readme-stats-hle4mae8e-travrs629.vercel.app/api?username=travrs629&show_icons=true&count_private=true&theme=tokyonight&line_height=25&include_all_commits=true&hide=contribs&cache_seconds=7200)
+![hokwanhung's GitHub stats](https://github-readme-stats-blond-chi.vercel.app/api?username=travrs629&show_icons=true&count_private=true&theme=tokyonight&line_height=25&include_all_commits=true&hide=contribs&cache_seconds=7200)
 
-![Top Langs](https://github-readme-stats-hle4mae8e-travrs629.vercel.app/api/top-langs/?username=travrs629&count_private=true&langs_count=10&layout=compact&theme=tokyonight&card_width=445px)
+![Top Langs](https://github-readme-stats-blond-chi.vercel.app/api/top-langs/?username=travrs629&count_private=true&langs_count=10&layout=compact&theme=tokyonight&card_width=445px)
 

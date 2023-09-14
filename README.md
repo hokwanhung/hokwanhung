@@ -43,3 +43,7 @@ A graduated CS student aiming at making products with social impacts.
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" />
   </a>
 </div>
+
+<br>
+
+`The more I code, the more I realise coding is like tilting at a windmill - often, you have to face challenges beyond your capabilities. And the best way to act is to start coding without thinking of failures and hardships.`

@@ -2,9 +2,10 @@
 
 [![Github](https://img.shields.io/github/followers/travrs629?label=Follow&style=social)](https://github.com/travrs629)
 
-A graduated CS student aiming at making products with social impacts.
-- 🌱 I’m currently learning **Java, Python, SQL and multiple other laguages and frameworks...**
+A CS fresh grade aiming at making products with social impacts.
+- 🌱 I’m currently learning **Java, Python, SQL and multiple other languages and frameworks...**
 - 📝 I irregularly answer questions on [https://stackoverflow.com/users/14499516/hokwanhung](https://stackoverflow.com/users/14499516/hokwanhung)
+- 💻 I often work on personal projects with plans ([to-do-notebook](https://github.com/travrs629/to-do-notebook)) to improve my skills and test out my ideas.
 - 📫 Reach me at hokwanhung.2019@gmail.com
 - 📄 Know about my experiences [Kwan_Hung_HO_CV.pdf](https://github.com/travrs629/travrs629/raw/main/Kwan_Hung_HO_CV_202308.pdf)
 

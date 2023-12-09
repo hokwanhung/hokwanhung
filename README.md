@@ -1,6 +1,7 @@
 <h2>Hi there, I'm Ho Kwan Hung</h2>
 
-[![Github](https://img.shields.io/github/followers/travrs629?label=Follow&style=social)](https://github.com/travrs629)
+[![Github](https://img.shields.io/github/followers/hokwanhung?label=Follow&style=social)](https://github.com/hokwanhung)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14499516?style=social&logo=stackoverflow&label=Read)
 
 A CS fresh graduate aiming at making products with social impacts.
 - 🌱 I’m currently learning **Java, Python, SQL and multiple other languages and frameworks...**
@@ -37,10 +38,10 @@ A CS fresh graduate aiming at making products with social impacts.
 <!-- Social button -->
 <div>
   <!-- Social button 1 -->
-  <a href="https://www.linkedin.com/in/kwan-hung-ho-b13249228#gh-light-mode-only">
+  <a href="https://www.linkedin.com/in/hokwanhung#gh-light-mode-only">
     <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/kwan-hung-ho-b13249228#gh-dark-mode-only">
+  <a href="https://www.linkedin.com/in/hokwanhung#gh-dark-mode-only">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" />
   </a>
 </div>

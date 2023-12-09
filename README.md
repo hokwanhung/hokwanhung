@@ -13,10 +13,10 @@ A CS fresh graduate aiming at making products with social impacts.
 
 <!-- Light Mode -->
 <div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height=258 src="https://github-readme-stats-git-master-travrs629.vercel.app/api?username=travrs629&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats&role=owner,collaborator&line_height=25&card_width=347&theme=default&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile&cache_seconds=7200#gh-light-mode-only)](https://github.com/travrs629/github-readme-stats" alt="hokwanhung's Github stats"/>
+  <a href="https://github.com/hokwanhung/github-readme-stats#gh-light-mode-only">
+    <img height=258 src="https://github-readme-stats-git-master-travrs629.vercel.app/api?username=travrs629&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats&role=owner,collaborator&line_height=25&card_width=347&theme=default&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile#gh-light-mode-only)](https://github.com/travrs629/github-readme-stats" alt="hokwanhung's Github stats"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <a href="https://github.com/hokwanhung/github-readme-stats#gh-light-mode-only">
     <img height=258 src="https://github-readme-stats-git-master-travrs629.vercel.app/api/top-langs/?username=travrs629&count_private=true&langs_count=12&role=owner,collaborator&layout=compact&hide_border=true&theme=default#gh-light-mode-only" alt="hokwanhung's Language stats"/>
   </a>
 </div>
@@ -24,10 +24,10 @@ A CS fresh graduate aiming at making products with social impacts.
 
 <!-- Dark Mode -->
 <div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=258 src="https://github-readme-stats-git-master-travrs629.vercel.app/api?username=travrs629&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats&role=owner,collaborator&line_height=25&card_width=347&theme=tokyonight&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile&cache_seconds=7200#gh-dark-mode-only)](https://github.com/travrs629/github-readme-stats" alt="hokwanhung's Github stats (Try reloading)"/>
+  <a href="https://github.com/hokwanhung/github-readme-stats#gh-dark-mode-only">
+    <img height=258 src="https://github-readme-stats-git-master-travrs629.vercel.app/api?username=travrs629&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats&role=owner,collaborator&line_height=25&card_width=347&theme=tokyonight&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile#gh-dark-mode-only)](https://github.com/travrs629/github-readme-stats" alt="hokwanhung's Github stats (Try reloading)"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <a href="https://github.com/hokwanhung/github-readme-stats#gh-dark-mode-only">
     <img height=258 src="https://github-readme-stats-git-master-travrs629.vercel.app/api/top-langs/?username=travrs629&count_private=true&langs_count=12&role=owner,collaborator&layout=compact&hide_border=true&theme=tokyonight#gh-dark-mode-only" alt="hokwanhung's Language stats (Try reloading)"/>
   </a>
 </div>

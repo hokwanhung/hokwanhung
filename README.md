@@ -6,19 +6,19 @@
 A CS fresh graduate aiming at making products with social impacts.
 - 🌱 I’m currently learning **Java, Python, SQL and multiple other languages and frameworks...**
 - 📝 I irregularly answer questions on [https://stackoverflow.com/users/14499516/hokwanhung](https://stackoverflow.com/users/14499516/hokwanhung)
-- 💻 I often work on personal projects with plans ([to-do-notebook](https://github.com/travrs629/to-do-notebook)) to improve my skills and test out my ideas.
+- 💻 I often work on personal projects with plans ([to-do-notebook](https://github.com/hokwanhung/to-do-notebook)) to improve my skills and test out my ideas.
 - 📫 Reach me at hokwanhung.2019@gmail.com
-- 📄 Know about my experiences [Kwan_Hung_HO_CV.pdf](https://github.com/travrs629/travrs629/raw/main/Kwan_Hung_HO_CV_202308.pdf)
+- 📄 Know about my experiences [Kwan_Hung_HO_CV.pdf](https://github.com/hokwanhung/hokwanhung/raw/main/Kwan_Hung_HO_CV_202308.pdf)
 
 <br />
 
 <!-- Light Mode -->
 <div align="left">
   <a href="https://github.com/hokwanhung/github-readme-stats#gh-light-mode-only">
-    <img height=258 src="https://github-readme-stats-git-master-travrs629.vercel.app/api?username=travrs629&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats&role=owner,collaborator&line_height=25&card_width=347&theme=default&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile#gh-light-mode-only)](https://github.com/travrs629/github-readme-stats" alt="hokwanhung's Github stats"/>
+    <img height=258 src="https://github-readme-stats-git-master-hokwanhung.vercel.app/api?username=hokwanhung&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats&role=owner,collaborator&line_height=25&card_width=347&theme=default&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile#gh-light-mode-only)](https://github.com/hokwanhung/github-readme-stats" alt="hokwanhung's Github stats"/>
   </a>
   <a href="https://github.com/hokwanhung/github-readme-stats#gh-light-mode-only">
-    <img height=258 src="https://github-readme-stats-git-master-travrs629.vercel.app/api/top-langs/?username=travrs629&count_private=true&langs_count=12&role=owner,collaborator&layout=compact&hide_border=true&theme=default#gh-light-mode-only" alt="hokwanhung's Language stats"/>
+    <img height=258 src="https://github-readme-stats-git-master-hokwanhung.vercel.app/api/top-langs/?username=hokwanhung&count_private=true&langs_count=12&role=owner,collaborator&layout=compact&hide_border=true&theme=default#gh-light-mode-only" alt="hokwanhung's Language stats"/>
   </a>
 </div>
 
@@ -26,10 +26,10 @@ A CS fresh graduate aiming at making products with social impacts.
 <!-- Dark Mode -->
 <div align="left">
   <a href="https://github.com/hokwanhung/github-readme-stats#gh-dark-mode-only">
-    <img height=258 src="https://github-readme-stats-git-master-travrs629.vercel.app/api?username=travrs629&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats&role=owner,collaborator&line_height=25&card_width=347&theme=tokyonight&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile#gh-dark-mode-only)](https://github.com/travrs629/github-readme-stats" alt="hokwanhung's Github stats (Try reloading)"/>
+    <img height=258 src="https://github-readme-stats-git-master-hokwanhung.vercel.app/api?username=hokwanhung&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats&role=owner,collaborator&line_height=25&card_width=347&theme=tokyonight&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile#gh-dark-mode-only)](https://github.com/hokwanhung/github-readme-stats" alt="hokwanhung's Github stats (Try reloading)"/>
   </a>
   <a href="https://github.com/hokwanhung/github-readme-stats#gh-dark-mode-only">
-    <img height=258 src="https://github-readme-stats-git-master-travrs629.vercel.app/api/top-langs/?username=travrs629&count_private=true&langs_count=12&role=owner,collaborator&layout=compact&hide_border=true&theme=tokyonight#gh-dark-mode-only" alt="hokwanhung's Language stats (Try reloading)"/>
+    <img height=258 src="https://github-readme-stats-git-master-hokwanhung.vercel.app/api/top-langs/?username=hokwanhung&count_private=true&langs_count=12&role=owner,collaborator&layout=compact&hide_border=true&theme=tokyonight#gh-dark-mode-only" alt="hokwanhung's Language stats (Try reloading)"/>
   </a>
 </div>
 

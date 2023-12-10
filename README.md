@@ -1,7 +1,7 @@
 <h2>Hi there, I'm Ho Kwan Hung</h2>
 
 [![Github](https://img.shields.io/github/followers/hokwanhung?label=Follow&style=social)](https://github.com/hokwanhung)
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14499516?style=social&logo=stackoverflow&label=Read)](https://stackoverflow.com/users/14499516/hokwanhung)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14499516?style=social&logo=stackoverflow&label=Repute)](https://stackoverflow.com/users/14499516/hokwanhung)
 
 A CS fresh graduate aiming at making products with social impacts.
 - 🌱 I’m currently learning **Java, Python, SQL and multiple other languages and frameworks...**

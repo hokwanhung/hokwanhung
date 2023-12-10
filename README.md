@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Ho Kwan Hung</h2>
+<h2>Hi there, I'm hokwanhung (Ho Kwan Hung)</h2>
 
 [![Github](https://img.shields.io/github/followers/hokwanhung?label=Follow&style=social)](https://github.com/hokwanhung)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14499516?style=social&logo=stackoverflow&label=Repute)](https://stackoverflow.com/users/14499516/hokwanhung)

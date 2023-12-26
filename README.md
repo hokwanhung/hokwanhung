@@ -44,6 +44,13 @@ A CS fresh graduate aiming at making products with social impacts.
   <a href="https://www.linkedin.com/in/hokwanhung#gh-dark-mode-only">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" />
   </a>
+    <!-- Social button 2 -->
+  <a href="https://hokwanhung.com/#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff#gh-light-mode-only" alt="Understand more about me on Medium" />
+  </a>
+  <a href="https://hokwanhung.com/#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black#gh-light-mode-only" alt="Understand more about me on Medium" />
+  </a>
 </div>
 
 <br>

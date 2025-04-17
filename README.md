@@ -3,12 +3,12 @@
 [![Github](https://img.shields.io/github/followers/hokwanhung?label=Follow&style=social)](https://github.com/hokwanhung)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14499516?style=social&logo=stackoverflow&label=Repute)](https://stackoverflow.com/users/14499516/hokwanhung)
 
-A CS fresh graduate aiming at making products with social impacts.
-- 🌱 I’m currently learning **Java, Python, SQL and multiple other languages and frameworks...**
+A junior Frontend developer striving to become a full-stack engineer.
+- 🌱 I’m currently practising **JavaScript (React, Vue), Java (Spring), Python, SQL and multiple other languages and frameworks...**
 - 📝 I irregularly answer questions on [https://stackoverflow.com/users/14499516/hokwanhung](https://stackoverflow.com/users/14499516/hokwanhung)
-- 💻 I often work on personal projects with plans ([to-do-notebook](https://github.com/hokwanhung/to-do-notebook)) to improve my skills and test out my ideas.
+- 💻 I often work on personal projects with plans (TBC) to improve my skills and test my ideas.
 - 📫 Reach me at hokwanhung.2019@gmail.com
-- 📄 Know about my experiences [Kwan_Hung_HO_CV.pdf](https://github.com/hokwanhung/hokwanhung/raw/main/Kwan_Hung_HO_CV_202308.pdf)
+- 📄 Know about my experiences [Kwan_Hung_HO_CV.pdf](https://github.com/hokwanhung/hokwanhung/raw/main/Kwan_Hung_HO_CV_202308.pdf) (TBC)
 
 <br />
 

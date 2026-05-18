@@ -14,22 +14,22 @@ A junior Frontend developer striving to become a full-stack engineer.
 
 <!-- Light Mode -->
 <div align="left">
-  <a href="https://github.com/hokwanhung/github-readme-stats#gh-light-mode-only">
-    <img class="card-commits" height=258 src="https://github-readme-stats-phi-gray-79.vercel.app/api?username=hokwanhung&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats&role=owner,collaborator&line_height=25&card_width=347&theme=default&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile#gh-light-mode-only)](https://github.com/hokwanhung/github-readme-stats" alt="hokwanhung's Github stats"/>
+  <a href="https://github.com/hokwanhung/github-readme-stats">
+    <img class="card-commits" height=258 src="./profile/stats.svg#gh-light-mode-only" alt="hokwanhung's Github stats"/>
   </a>
-  <a href="https://github.com/hokwanhung/github-readme-stats#gh-light-mode-only">
-    <img class="card-lang" height=258 src="https://github-readme-stats-phi-gray-79.vercel.app/api/top-langs/?username=hokwanhung&count_private=true&langs_count=12&role=owner,collaborator&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&theme=default#gh-light-mode-only" alt="hokwanhung's Language stats"/>
+  <a href="https://github.com/hokwanhung/github-readme-stats">
+    <img class="card-lang" height=258 src="./profile/top-langs.svg#gh-light-mode-only" alt="hokwanhung's Language stats"/>
   </a>
 </div>
 
 
 <!-- Dark Mode -->
 <div align="left">
-  <a href="https://github.com/hokwanhung/github-readme-stats#gh-dark-mode-only">
-    <img height=258 src="https://github-readme-stats-phi-gray-79.vercel.app/api?username=hokwanhung&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats&role=owner,collaborator&line_height=25&card_width=347&theme=bear&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile#gh-dark-mode-only)](https://github.com/hokwanhung/github-readme-stats" alt="hokwanhung's Github stats"/>
+  <a href="https://github.com/hokwanhung/github-readme-stats">
+    <img height=258 src="./profile/stats-dark-mode.svg#gh-dark-mode-only" alt="hokwanhung's Github stats"/>
   </a>
-  <a href="https://github.com/hokwanhung/github-readme-stats#gh-dark-mode-only">
-    <img height=258 src="https://github-readme-stats-phi-gray-79.vercel.app/api/top-langs/?username=hokwanhung&count_private=true&langs_count=12&role=owner,collaborator&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&theme=bear#gh-dark-mode-only" alt="hokwanhung's Language stats"/>
+  <a href="https://github.com/hokwanhung/github-readme-stats">
+    <img height=258 src="./profile/top-langs-dark-mode.svg#gh-dark-mode-only" alt="hokwanhung's Language stats"/>
   </a>
 </div>
 

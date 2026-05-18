@@ -12,24 +12,20 @@ A junior Frontend developer striving to become a full-stack engineer.
 
 <br />
 
-<!-- Light Mode -->
 <div align="left">
   <a href="https://github.com/hokwanhung/github-readme-stats">
-    <img class="card-commits" height=258 src="./profile/stats.svg#gh-light-mode-only" alt="hokwanhung's Github stats"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark-mode.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg" />
+      <img class="card-commits" height=258 src="./profile/stats.svg" alt="hokwanhung's Github stats"/>
+    </picture>
   </a>
   <a href="https://github.com/hokwanhung/github-readme-stats">
-    <img class="card-lang" height=258 src="./profile/top-langs.svg#gh-light-mode-only" alt="hokwanhung's Language stats"/>
-  </a>
-</div>
-
-
-<!-- Dark Mode -->
-<div align="left">
-  <a href="https://github.com/hokwanhung/github-readme-stats">
-    <img height=258 src="./profile/stats-dark-mode.svg#gh-dark-mode-only" alt="hokwanhung's Github stats"/>
-  </a>
-  <a href="https://github.com/hokwanhung/github-readme-stats">
-    <img height=258 src="./profile/top-langs-dark-mode.svg#gh-dark-mode-only" alt="hokwanhung's Language stats"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark-mode.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg" />
+      <img class="card-lang" height=258 src="./profile/top-langs.svg" alt="hokwanhung's Language stats"/>
+    </picture>
   </a>
 </div>
 

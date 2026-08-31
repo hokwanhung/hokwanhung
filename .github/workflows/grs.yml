@@ -27,7 +27,7 @@ jobs:
               "exclude_repo": "github-readme-stats",
               "role": "OWNER,COLLABORATOR",
               "line_height": 25,
-              "card_width": 495,
+              "card_width": 420,
               "theme": "bear",
               "hide_border": true,
               "show": "reviews,discussions_started,discussions_answered",
@@ -48,7 +48,7 @@ jobs:
               "exclude_repo": "github-readme-stats",
               "role": "OWNER,COLLABORATOR",
               "line_height": 25,
-              "card_width": 495,
+              "card_width": 420,
               "theme": "default",
               "hide_border": true,
               "show": "reviews,discussions_started,discussions_answered",
@@ -68,9 +68,8 @@ jobs:
               "langs_count": 12,
               "role": "OWNER,COLLABORATOR",
               "layout": "compact",
-              "size_weight": 0.5,
-              "count_weight": 0.5,
-              "card_width": 495,
+              "size_weight": 0.4,
+              "count_weight": 0.6,
               "hide_border": true,
               "theme": "bear"
             }
@@ -88,9 +87,8 @@ jobs:
               "langs_count": 12,
               "role": "OWNER,COLLABORATOR",
               "layout": "compact",
-              "size_weight": 0.5,
-              "count_weight": 0.5,
-              "card_width": 495,
+              "size_weight": 0.4,
+              "count_weight": 0.6,
               "hide_border": true,
               "theme": "default"
             }

@@ -19,7 +19,20 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats&role=owner,collaborator&line_height=25&card_width=347&theme=bear&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile
+          options: >-
+            {
+              "username": "${{ github.repository_owner }}",
+              "show_icons": true,
+              "include_all_commits": true,
+              "exclude_repo": "github-readme-stats",
+              "role": "OWNER,COLLABORATOR",
+              "line_height": 25,
+              "card_width": 495,
+              "theme": "bear",
+              "hide_border": true,
+              "show": "reviews,discussions_started,discussions_answered",
+              "rank_icon": "percentile"
+            }
           path: profile/stats-dark-mode.svg
           token: ${{ secrets.README_STATS_TOKEN }}
 
@@ -27,7 +40,20 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&exclude_repo=github-readme-stats&role=owner,collaborator&line_height=25&card_width=347&theme=default&hide_border=true&show=reviews,discussions_started,discussions_answered&rank_icon=percentile
+          options: >-
+            {
+              "username": "${{ github.repository_owner }}",
+              "show_icons": true,
+              "include_all_commits": true,
+              "exclude_repo": "github-readme-stats",
+              "role": "OWNER,COLLABORATOR",
+              "line_height": 25,
+              "card_width": 495,
+              "theme": "default",
+              "hide_border": true,
+              "show": "reviews,discussions_started,discussions_answered",
+              "rank_icon": "percentile"
+            }
           path: profile/stats.svg
           token: ${{ secrets.README_STATS_TOKEN }}
 
@@ -35,7 +61,19 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&count_private=true&langs_count=12&role=owner,collaborator&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&theme=bear
+          options: >-
+            {
+              "username": "${{ github.repository_owner }}",
+              "count_private": true,
+              "langs_count": 12,
+              "role": "OWNER,COLLABORATOR",
+              "layout": "compact",
+              "size_weight": 0.5,
+              "count_weight": 0.5,
+              "card_width": 495,
+              "hide_border": true,
+              "theme": "bear"
+            }
           path: profile/top-langs-dark-mode.svg
           token: ${{ secrets.README_STATS_TOKEN }}
 
@@ -43,7 +81,19 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&count_private=true&langs_count=12&role=owner,collaborator&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&theme=default
+          options: >-
+            {
+              "username": "${{ github.repository_owner }}",
+              "count_private": true,
+              "langs_count": 12,
+              "role": "OWNER,COLLABORATOR",
+              "layout": "compact",
+              "size_weight": 0.5,
+              "count_weight": 0.5,
+              "card_width": 495,
+              "hide_border": true,
+              "theme": "default"
+            }
           path: profile/top-langs.svg
           token: ${{ secrets.README_STATS_TOKEN }}
 

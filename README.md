@@ -15,24 +15,16 @@ A junior Frontend developer striving to become a full-stack engineer.
 <div align="left">
   <a href="https://github.com/hokwanhung/github-readme-stats">
     <picture>
-      <source media="(max-width: 799px) and (prefers-color-scheme: dark)" srcset="./profile/stats-dark-mode-full.svg" />
-      <source media="(max-width: 799px) and (prefers-color-scheme: light)" srcset="./profile/stats-full.svg" />
-      <source media="(min-width: 1012px) and (max-width: 1119px) and (prefers-color-scheme: dark)" srcset="./profile/stats-dark-mode-full.svg" />
-      <source media="(min-width: 1012px) and (max-width: 1119px) and (prefers-color-scheme: light)" srcset="./profile/stats-full.svg" />
       <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark-mode.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg" />
-      <img src="./profile/stats.svg" alt="hokwanhung's Github stats"/>
+      <img class="card-commits" height=258 src="./profile/stats.svg" alt="hokwanhung's Github stats"/>
     </picture>
   </a>
   <a href="https://github.com/hokwanhung/github-readme-stats">
     <picture>
-      <source media="(max-width: 799px) and (prefers-color-scheme: dark)" srcset="./profile/top-langs-dark-mode-full.svg" />
-      <source media="(max-width: 799px) and (prefers-color-scheme: light)" srcset="./profile/top-langs-full.svg" />
-      <source media="(min-width: 1012px) and (max-width: 1119px) and (prefers-color-scheme: dark)" srcset="./profile/top-langs-dark-mode-full.svg" />
-      <source media="(min-width: 1012px) and (max-width: 1119px) and (prefers-color-scheme: light)" srcset="./profile/top-langs-full.svg" />
       <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark-mode.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg" />
-      <img src="./profile/top-langs.svg" alt="hokwanhung's Language stats"/>
+      <img class="card-lang" height=258 src="./profile/top-langs.svg" alt="hokwanhung's Language stats"/>
     </picture>
   </a>
 </div>

@@ -101,25 +101,6 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.README_STATS_TOKEN }}
 
-      - name: Widen cards for narrow viewports
-        run: |
-          python3 - <<'PY'
-          from pathlib import Path
-
-          pairs = [
-              ("profile/stats.svg", "profile/stats-full.svg", 'width="420"', 'height="270"', 'width="1200"', 'height="771"'),
-              ("profile/stats-dark-mode.svg", "profile/stats-dark-mode-full.svg", 'width="420"', 'height="270"', 'width="1200"', 'height="771"'),
-              ("profile/top-langs.svg", "profile/top-langs-full.svg", 'width="300"', 'height="240"', 'width="1200"', 'height="960"'),
-              ("profile/top-langs-dark-mode.svg", "profile/top-langs-dark-mode-full.svg", 'width="300"', 'height="240"', 'width="1200"', 'height="960"'),
-          ]
-          for src, dst, old_w, old_h, new_w, new_h in pairs:
-              text = Path(src).read_text(encoding="utf-8")
-              if old_w not in text or old_h not in text:
-                  raise SystemExit(f"root size missing in {src}")
-              text = text.replace(old_w, new_w, 1).replace(old_h, new_h, 1)
-              Path(dst).write_text(text, encoding="utf-8")
-          PY
-
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"

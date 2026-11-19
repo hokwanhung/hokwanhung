@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
 
+concurrency:
+  group: update-readme-cards
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,6 +18,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: Generate stats card (dark mode)
         uses: stats-organization/github-readme-stats-action@v2
@@ -100,5 +106,24 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
+          if git diff --staged --quiet; then
+            echo "No card changes"
+            exit 0
+          fi
+          git commit -m "Update README cards"
+          branch="${GITHUB_REF_NAME}"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin "$branch"
+            if git rebase "origin/$branch"; then
+              git push origin "HEAD:$branch" && exit 0
+            else
+              # Fresh SVGs in this commit should win over an older card commit.
+              git checkout --theirs -- profile/*.svg
+              git add profile/*.svg
+              GIT_EDITOR=true git rebase --continue
+              git push origin "HEAD:$branch" && exit 0
+            fi
+            echo "Push rejected, retry ${attempt}"
+            sleep $((attempt * 2))
+          done
+          exit 1

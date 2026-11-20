@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Kwan Hung, HO&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 38, Total Commits  : 578, Total PRs: 24, Total PRs Reviewed: 1, Total Issues: 9, Total Discussions Started: 2, Total Discussions Answered: 1, Contributed to (last year): 1</desc>
+        <title id="titleId">Kwan Hung, HO&#39;s GitHub Stats, Rank: B</title>
+        <desc id="descId">Total Stars Earned: 38, Total Commits  : 582, Total PRs: 24, Total PRs Reviewed: 22, Total Issues: 9, Total Discussions Started: 2, Total Discussions Answered: 1, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 165.8003121759087;
+        stroke-dashoffset: 150.9232368308648;
       }
     }
   
@@ -153,7 +153,7 @@
           Top
         </text>
         <text x="-5" y="12" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="percentile-rank-value" class="rank-percentile-text">
-          66.0%
+          60.1%
         </text>
       
         </g>
@@ -187,7 +187,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >578</text>
+      >582</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -217,7 +217,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >1</text>
+      >22</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
